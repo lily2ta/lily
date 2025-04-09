@@ -37,12 +37,12 @@ cv_html = """
 
   <div class="section">
     <h2>📌 Datos Personales</h2>
-    <p><strong>Nombre completo:</strong> Juan Pérez</p>
-    <p><strong>Fecha de nacimiento:</strong> 01/01/2000</p>
-    <p><strong>Dirección:</strong> Av. Siempre Viva 123</p>
-    <p><strong>Teléfono:</strong> 123456789</p>
-    <p><strong>Correo electrónico:</strong> juan.perez@email.com</p>
-    <p><strong>DNI:</strong> 12345678</p>
+    <p><strong>Nombre completo:</strong> lily tamayo</p>
+    <p><strong>Fecha de nacimiento:</strong> 24/03/2005</p>
+    <p><strong>Dirección:</strong> Av. Santa clara, malvinas</p>
+    <p><strong>Teléfono:</strong> 0968677289</p>
+    <p><strong>Correo electrónico:</strong> nahomytamayo20@gmail.com</p>
+    <p><strong>DNI:</strong> 0943706028</p>
   </div>
 
   <div class="section">
