@@ -47,11 +47,11 @@ cv_html = """
 
   <div class="section">
     <h2>🎓 Formación Académica</h2>
-    <p><strong>Colegio Nacional ABC</strong></p>
+    <p><strong>Colegio camilo gallegos Dominguez</strong></p>
     <p>Nivel: Secundaria completa</p>
-    <p>Años cursados: 2014 – 2019</p>
+    <p>Años cursados: 2018 – 2022</p>
     <br>
-    <p><strong>Curso de Excel Básico - Instituto XYZ</strong></p>
+    <p><strong>tecnica en contabilidad - Instituto XYZ</strong></p>
     <p>Estado: Completado</p>
   </div>
 
